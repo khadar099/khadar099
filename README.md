@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Khadar</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate AWs Devops Enginer (Site Reliability Engineering) from India</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
@@ -34,17 +34,30 @@ Here are some ideas to get you started:
 
 ### 🛠️ Tech Stack
 
+#### ☁️ Cloud & DevOps
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" alt="Terraform"/>
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" alt="Ansible"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" alt="Jenkins"/>
+  <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" width="40" alt="SonarQube"/>
 </p>
 
----
+#### 💻 Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+</p>
 
+#### 📊 Monitoring & Logging
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" alt="ELK Stack"/>
+  <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="40" alt="Splunk"/>
+</p>
 ### 📊 GitHub Stats
 
 <p align="center">
