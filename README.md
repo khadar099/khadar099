@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Khadar</h1>
+<p align="center">
+  <img src="banner.png" alt="Khadar's Banner" />
+</p>
 <h3 align="center">A passionate AWS Devops Engineer (Site Reliability Engineer) from India</h3>
 
 <p align="center">
