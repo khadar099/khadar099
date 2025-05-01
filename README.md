@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Khadar</h1>
-<h3 align="center">A passionate AWs Devops Enginer (Site Reliability Engineering) from India</h3>
+<h3 align="center">A passionate AWS Devops Engineer (Site Reliability Engineer) from India</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 
-- 🌱 I’m currently learning **AWS, CI/CD, and Microservices**
-- 👯 I’m working on **a Spring Boot + Docker + AWS Shoe Shopping App**
-- 💬 Ask me about **Java, Spring Boot, MySQL, Docker**
-- 📫 How to reach me: **your-email@example.com**
+- 🌱 I’m currently learning **AWS, Azure, and Microservices**
+- 👯 I’m working on **future Apps**
+- 💬 Ask me about **AWS Devops , SRE**
+- 📫 How to reach me: **khadar3099@gmail.com**
 - ⚡ Fun fact: *I love debugging more than coding!*
 
 ---
